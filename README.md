@@ -1,3 +1,5 @@
+# 点名表扬沟石CSDN，用AI搬我项目还搞付费
+
 # LinearBot
 适用Minecraft Java版本：1.16+（需v1.2及以上插件)
 
