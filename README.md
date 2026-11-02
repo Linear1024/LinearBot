@@ -1,6 +1,5 @@
-# 点名表扬沟石CSDN，用AI搬我项目还搞付费
-
 # LinearBot
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Linear1024/LinearBot/total)
 适用Minecraft Java版本：1.16+（需v1.2及以上插件)
 
 使用本插件需要前置插件[MiraiMC](https://github.com/DreamVoid/MiraiMC/)
